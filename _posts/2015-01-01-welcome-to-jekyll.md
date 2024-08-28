@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Welcome to DYZR!
 subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+author: Yan Jinsheng
+categories: Yan Jinsheng
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
